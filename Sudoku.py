@@ -85,3 +85,6 @@ class Su:
       
  
 s = Su(a)
+
+
+Zdarek
